@@ -1,0 +1,27 @@
+  body {
+    background-color: #e3d0b9;
+  }
+
+  p {
+      text-align: justify;
+      width: 45%;
+  }
+
+  h3 {
+    color: #62959c;
+  }
+
+  h2 {
+    color: #c19277;
+  }
+
+  h1 {
+    color: #c19277;
+  }
+
+  hr {
+    border-style: dotted none none none;
+    border-color: #e1bc91;
+    border-width: 4px;
+    width: 5%
+  }
